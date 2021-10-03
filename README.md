@@ -1,0 +1,2 @@
+# Ultimate Notes
+## This file contains code that will complete various functions on the following topics: Python/SQL/Git/Docker/GCP/AWS/Azure, Data Analysis, Decision Science, Machine Learning, Deep Learning, Data Engineering
